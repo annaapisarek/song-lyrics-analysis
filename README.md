@@ -77,7 +77,10 @@ A comprehensive analysis of Billboard chart-topping songs from 1990 to 2024, exa
 | Hip Hop/Rap has richer vocabulary | ✅ Supported | T-test |
 | Pop has more love songs than other genres | ✅ Supported | Two-Proportion Z-Test |
 
+## Vizualization
 
+### Tableau Dashboard
+https://public.tableau.com/app/profile/anna.pisarek/viz/AnalysisofSongLyrics1990-2024/SongLyricsAnalysis?publish=yes
 
 ## Technical Challenges & Lessons Learned
 
