@@ -82,21 +82,8 @@ A comprehensive analysis of Billboard chart-topping songs from 1990 to 2024, exa
 ### Tableau Dashboard
 https://public.tableau.com/app/profile/anna.pisarek/viz/AnalysisofSongLyrics1990-2024/SongLyricsAnalysis?publish=yes
 
-## Technical Challenges & Lessons Learned
 
-### 1. LDA Model Training
-* Complex parameter tuning required
-* Multiple approaches needed for refinement
 
-### 2. API Usage
-* Genius API performance issues
-* Implementation of retry mechanisms
-* Batch processing for optimization
-
-### 3. Resource Management
-* Extensive library utilization
-* Integration of multiple clients
-* Academic paper references
 
 ## Tools & Technologies
 
@@ -105,10 +92,12 @@ https://public.tableau.com/app/profile/anna.pisarek/viz/AnalysisofSongLyrics1990
 * Database: SQL
 * NLP: NLTK, VADER
 * Topic Modeling: LDA
+* Vizualization: Tableau 
 
 ### External Services
 * Genius API
 * Spotify API
+* Kaggle
 
 ## Author
 **Anna Pisarek**
