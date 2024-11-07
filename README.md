@@ -1,4 +1,4 @@
-# Pop Songs Lyrics Analysis (1990-2024)
+# Song Lyrics Analysis (1990-2024)
 
 ## Overview
 A comprehensive analysis of Billboard chart-topping songs from 1990 to 2024, examining lyrical content, sentiment, and trends across different genres. This project combines Natural Language Processing (NLP) with Pandas and SQL to understand how song lyrics have evolved over time.
