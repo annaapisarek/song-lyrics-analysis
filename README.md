@@ -99,10 +99,6 @@ https://public.tableau.com/app/profile/anna.pisarek/viz/AnalysisofSongLyrics1990
 * Spotify API
 * Kaggle
 
-## Author
-**Anna Pisarek**
-* Linguist with music industry experience
-
 ## More details
 https://docs.google.com/presentation/d/1omwthfL1xnLFFi6E5GrkcP4E4LW-XUo63a_L5A8liBw/edit?usp=sharing
 
